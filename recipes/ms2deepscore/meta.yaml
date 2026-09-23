@@ -36,6 +36,7 @@ requirements:
     - tqdm
     - chemap
     - onnxscript >=0.7.0
+    - onnxruntime 
 
 test:
   imports:
